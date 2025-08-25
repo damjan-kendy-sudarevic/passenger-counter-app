@@ -4,6 +4,7 @@ body {
     text-align: center;
     display: flex;
     justify-content: center;
+    background: darkgray;
 }
 
 h1 {
@@ -17,7 +18,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-div {
+#content-wrapper {
     max-width: 50%
 }
 
